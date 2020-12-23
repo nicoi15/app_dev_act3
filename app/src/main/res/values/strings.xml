@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Abrasaldo Lab Android 3</string>
+    <string-array name="petType">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Snake</item>
+        <item>Pokemon</item>
+    </string-array>
+    <string-array name="dogBreed">
+        <item>Aspin</item>
+        <item>Siberian</item>
+        <item>Husky</item>
+        <item>Dachshund</item>
+        <item>Beagle</item>
+        <item>Bulldog</item>
+        <item>Shih Tzu</item>
+        <item>Poodle</item>
+        <item>Pitbull</item>
+    </string-array>
+    <string-array name="catBreed">
+        <item>Persian</item>
+        <item>Catpin</item>
+        <item>Siamese</item>
+    </string-array>
+    <string-array name="snakeBreed">
+        <item>Anaconda</item>
+        <item>King Cobra</item>
+        <item>Phyton</item>
+        <item>Rattle Snake</item>
+        <item>Shih Tzu</item>
+    </string-array>
+    <string-array name="pokemonBreed">
+        <item>Water</item>
+        <item>Earth</item>
+        <item>Fire</item>
+    </string-array>
+</resources>
